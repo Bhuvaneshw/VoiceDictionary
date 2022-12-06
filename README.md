@@ -16,6 +16,9 @@ This is an offline voice based dictionary app for Android. It accepts voice or t
  2. Google Speech To Text
  3. WordNet's word asset. [View](https://wordnet.princeton.edu/download) (Modified to sql statements)
  
+## Release Apk
+  [Download Apk](release/app-release.apk)
+  
 ## Screenshots
   <img src="screenshot/sc1.jpg" width="200"/>  <img src="screenshot/sc2.jpg" width="200"/>
   <img src="screenshot/sc3.jpg" width="200"/>  <img src="screenshot/sc4.jpg" width="200"/>
